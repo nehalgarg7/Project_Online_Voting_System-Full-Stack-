@@ -1,0 +1,13 @@
+img{
+    width:150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+#voted{
+    background-color: black;
+}
+
+.r{
+    background-color: black;
+}
